@@ -1,0 +1,973 @@
+********************New Initialization********************
+
+[28Jul2020 192335] - Event Log Initialized!
+[28Jul2020 192335] - Camera feed sucessfully acquired!
+[28Jul2020 192335] - Program fully initilized!
+[28Jul2020 192339] - Subject has entered the camera's view.
+[28Jul2020 192343] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 192348] - Subject has returned to an upright position.
+[28Jul2020 192353] - Subject has left the camera's view.
+[28Jul2020 192354] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[28Jul2020 192433] - Event Log Initialized!
+[28Jul2020 192433] - Camera feed sucessfully acquired!
+[28Jul2020 192433] - Program fully initilized!
+[28Jul2020 192437] - Subject has entered the camera's view.
+[28Jul2020 192441] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 192444] - Alert has been Sent. Awaiting help...
+[28Jul2020 192452] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[28Jul2020 194014] - Event Log Initialized!
+[28Jul2020 194014] - Camera feed sucessfully acquired!
+[28Jul2020 194014] - Program fully initilized!
+[28Jul2020 194018] - Subject has entered the camera's view.
+[28Jul2020 194023] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 194027] - Subject has returned to an upright position.
+[28Jul2020 194033] - Subject has left the camera's view.
+[28Jul2020 194034] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[28Jul2020 194054] - Event Log Initialized!
+[28Jul2020 194054] - Camera feed sucessfully acquired!
+[28Jul2020 194054] - Program fully initilized!
+[28Jul2020 194058] - Subject has entered the camera's view.
+[28Jul2020 194103] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 194107] - Subject has returned to an upright position.
+[28Jul2020 194113] - Subject has left the camera's view.
+[28Jul2020 194114] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[28Jul2020 194407] - Event Log Initialized!
+[28Jul2020 194407] - Camera feed sucessfully acquired!
+[28Jul2020 194407] - Program fully initilized!
+[28Jul2020 194412] - Subject has entered the camera's view.
+[28Jul2020 194418] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 194425] - Subject has returned to an upright position.
+[28Jul2020 194432] - Subject has left the camera's view.
+[28Jul2020 194434] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[28Jul2020 194531] - Event Log Initialized!
+[28Jul2020 194534] - Camera feed sucessfully acquired!
+[28Jul2020 194534] - Program fully initilized!
+[28Jul2020 194535] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 194545] - Alert has been Sent. Awaiting help...
+[28Jul2020 194609] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[28Jul2020 194616] - Event Log Initialized!
+[28Jul2020 194618] - Camera feed sucessfully acquired!
+[28Jul2020 194618] - Program fully initilized!
+[28Jul2020 194619] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 194629] - Subject has returned to an upright position.
+[28Jul2020 194629] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 194629] - Subject has returned to an upright position.
+[28Jul2020 194629] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 194630] - Subject has returned to an upright position.
+[28Jul2020 194631] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 194631] - Subject has returned to an upright position.
+[28Jul2020 194632] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 194633] - Subject has returned to an upright position.
+[28Jul2020 194633] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 194639] - Subject has returned to an upright position.
+[28Jul2020 194639] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 194639] - Subject has returned to an upright position.
+[28Jul2020 194639] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 194641] - Subject has returned to an upright position.
+[28Jul2020 194641] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 194641] - Subject has returned to an upright position.
+[28Jul2020 194641] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 194652] - Alert has been Sent. Awaiting help...
+[28Jul2020 194655] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[28Jul2020 212211] - Event Log Initialized!
+[28Jul2020 212211] - Camera feed sucessfully acquired!
+[28Jul2020 212211] - Program fully initilized!
+[28Jul2020 212217] - Subject has entered the camera's view.
+[28Jul2020 212223] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 212229] - Subject has returned to an upright position.
+[28Jul2020 212236] - Subject has left the camera's view.
+[28Jul2020 212239] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[28Jul2020 212349] - Event Log Initialized!
+[28Jul2020 212350] - Camera feed sucessfully acquired!
+[28Jul2020 212350] - Program fully initilized!
+[28Jul2020 212404] - Subject has entered the camera's view.
+[28Jul2020 212424] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 212434] - Alert has been Sent. Awaiting help...
+[28Jul2020 212454] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[28Jul2020 212522] - Event Log Initialized!
+[28Jul2020 212522] - Camera feed sucessfully acquired!
+[28Jul2020 212522] - Program fully initilized!
+[28Jul2020 212538] - Subject has entered the camera's view.
+[28Jul2020 212558] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 212608] - Alert has been Sent. Awaiting help...
+[28Jul2020 212636] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[28Jul2020 212806] - Event Log Initialized!
+[28Jul2020 212806] - Camera feed sucessfully acquired!
+[28Jul2020 212806] - Program fully initilized!
+[28Jul2020 212823] - Subject has entered the camera's view.
+[28Jul2020 212844] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 212846] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[28Jul2020 212859] - Event Log Initialized!
+[28Jul2020 212859] - Camera feed sucessfully acquired!
+[28Jul2020 212859] - Program fully initilized!
+[28Jul2020 212904] - Subject has entered the camera's view.
+[28Jul2020 212910] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 212917] - Subject has returned to an upright position.
+[28Jul2020 212924] - Subject has left the camera's view.
+[28Jul2020 212926] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[28Jul2020 213144] - Event Log Initialized!
+[28Jul2020 213144] - Camera feed sucessfully acquired!
+[28Jul2020 213144] - Program fully initilized!
+[28Jul2020 213150] - Subject has entered the camera's view.
+[28Jul2020 213156] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 213202] - Subject has returned to an upright position.
+[28Jul2020 213210] - Subject has left the camera's view.
+[28Jul2020 213212] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[28Jul2020 213244] - Event Log Initialized!
+[28Jul2020 213244] - Camera feed sucessfully acquired!
+[28Jul2020 213244] - Program fully initilized!
+[28Jul2020 213250] - Subject has entered the camera's view.
+[28Jul2020 213256] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 213302] - Subject has returned to an upright position.
+[28Jul2020 213310] - Subject has left the camera's view.
+[28Jul2020 213312] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[28Jul2020 213359] - Event Log Initialized!
+[28Jul2020 213359] - Camera feed sucessfully acquired!
+[28Jul2020 213359] - Program fully initilized!
+[28Jul2020 213359] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[28Jul2020 213422] - Event Log Initialized!
+[28Jul2020 213422] - Camera feed sucessfully acquired!
+[28Jul2020 213422] - Program fully initilized!
+[28Jul2020 213438] - Subject has entered the camera's view.
+[28Jul2020 213459] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 213509] - Alert has been Sent. Awaiting help...
+[28Jul2020 213520] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[28Jul2020 213524] - Event Log Initialized!
+[28Jul2020 213524] - Camera feed sucessfully acquired!
+[28Jul2020 213524] - Program fully initilized!
+[28Jul2020 213538] - Subject has entered the camera's view.
+[28Jul2020 213600] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 213610] - Alert has been Sent. Awaiting help...
+[28Jul2020 213628] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[28Jul2020 213630] - Event Log Initialized!
+[28Jul2020 213630] - Camera feed sucessfully acquired!
+[28Jul2020 213630] - Program fully initilized!
+[28Jul2020 213644] - Subject has entered the camera's view.
+[28Jul2020 213705] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 213715] - Alert has been Sent. Awaiting help...
+[28Jul2020 213737] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[28Jul2020 213739] - Event Log Initialized!
+[28Jul2020 213739] - Camera feed sucessfully acquired!
+[28Jul2020 213739] - Program fully initilized!
+[28Jul2020 213754] - Subject has entered the camera's view.
+[28Jul2020 213815] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 213825] - Alert has been Sent. Awaiting help...
+[28Jul2020 213905] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[28Jul2020 213924] - Event Log Initialized!
+[28Jul2020 213924] - Camera feed sucessfully acquired!
+[28Jul2020 213924] - Program fully initilized!
+[28Jul2020 213940] - Subject has entered the camera's view.
+[28Jul2020 214001] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 214011] - Alert has been Sent. Awaiting help...
+[28Jul2020 214020] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[28Jul2020 214044] - Event Log Initialized!
+[28Jul2020 214044] - Camera feed sucessfully acquired!
+[28Jul2020 214044] - Program fully initilized!
+[28Jul2020 214058] - Subject has entered the camera's view.
+[28Jul2020 214120] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 214130] - Alert has been Sent. Awaiting help...
+[28Jul2020 214147] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[28Jul2020 215620] - Event Log Initialized!
+[28Jul2020 215620] - Camera feed sucessfully acquired!
+[28Jul2020 215620] - Program fully initilized!
+[28Jul2020 215636] - Subject has entered the camera's view.
+[28Jul2020 215657] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 215707] - Alert has been Sent. Awaiting help...
+[28Jul2020 215735] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[28Jul2020 215738] - Event Log Initialized!
+[28Jul2020 215738] - Camera feed sucessfully acquired!
+[28Jul2020 215738] - Program fully initilized!
+[28Jul2020 215754] - Subject has entered the camera's view.
+[28Jul2020 215815] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 215825] - Alert has been Sent. Awaiting help...
+[28Jul2020 215841] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[28Jul2020 215844] - Event Log Initialized!
+[28Jul2020 215844] - Camera feed sucessfully acquired!
+[28Jul2020 215844] - Program fully initilized!
+[28Jul2020 215900] - Subject has entered the camera's view.
+[28Jul2020 215920] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 215930] - Alert has been Sent. Awaiting help...
+[28Jul2020 215959] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[28Jul2020 220016] - Event Log Initialized!
+[28Jul2020 220016] - Camera feed sucessfully acquired!
+[28Jul2020 220016] - Program fully initilized!
+[28Jul2020 220032] - Subject has entered the camera's view.
+[28Jul2020 220053] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 220103] - Alert has been Sent. Awaiting help...
+[28Jul2020 220131] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[28Jul2020 220154] - Event Log Initialized!
+[28Jul2020 220154] - Camera feed sucessfully acquired!
+[28Jul2020 220154] - Program fully initilized!
+[28Jul2020 220200] - Subject has entered the camera's view.
+[28Jul2020 220206] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[28Jul2020 220212] - Subject has returned to an upright position.
+[28Jul2020 220219] - Subject has left the camera's view.
+[28Jul2020 220221] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[29Jul2020 123412] - Event Log Initialized!
+[29Jul2020 123414] - Camera feed sucessfully acquired!
+[29Jul2020 123414] - Program fully initilized!
+[29Jul2020 123415] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123425] - Alert has been Sent. Awaiting help...
+[29Jul2020 123446] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[29Jul2020 123500] - Event Log Initialized!
+[29Jul2020 123502] - Camera feed sucessfully acquired!
+[29Jul2020 123502] - Program fully initilized!
+[29Jul2020 123503] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123513] - Alert has been Sent. Awaiting help...
+[29Jul2020 123531] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[29Jul2020 123535] - Event Log Initialized!
+[29Jul2020 123537] - Camera feed sucessfully acquired!
+[29Jul2020 123537] - Program fully initilized!
+[29Jul2020 123539] - Subject has entered the camera's view.
+[29Jul2020 123540] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123540] - Subject has returned to an upright position.
+[29Jul2020 123541] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123541] - Subject has returned to an upright position.
+[29Jul2020 123541] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123541] - Subject has returned to an upright position.
+[29Jul2020 123541] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123541] - Subject has returned to an upright position.
+[29Jul2020 123542] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123542] - Subject has returned to an upright position.
+[29Jul2020 123543] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123543] - Subject has returned to an upright position.
+[29Jul2020 123543] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123544] - Subject has returned to an upright position.
+[29Jul2020 123544] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123544] - Subject has returned to an upright position.
+[29Jul2020 123544] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123545] - Subject has returned to an upright position.
+[29Jul2020 123545] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123546] - Subject has returned to an upright position.
+[29Jul2020 123547] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[29Jul2020 123630] - Event Log Initialized!
+[29Jul2020 123632] - Camera feed sucessfully acquired!
+[29Jul2020 123632] - Program fully initilized!
+[29Jul2020 123634] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123635] - Subject has returned to an upright position.
+[29Jul2020 123635] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123637] - Subject has returned to an upright position.
+[29Jul2020 123637] - Subject has entered the camera's view.
+[29Jul2020 123642] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123642] - Subject has returned to an upright position.
+[29Jul2020 123646] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123651] - Subject has returned to an upright position.
+[29Jul2020 123653] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123656] - Subject has returned to an upright position.
+[29Jul2020 123656] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123659] - Subject has returned to an upright position.
+[29Jul2020 123659] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123659] - Subject has returned to an upright position.
+[29Jul2020 123659] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123659] - Subject has returned to an upright position.
+[29Jul2020 123659] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123659] - Subject has returned to an upright position.
+[29Jul2020 123659] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123700] - Subject has returned to an upright position.
+[29Jul2020 123700] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[29Jul2020 123759] - Event Log Initialized!
+[29Jul2020 123802] - Camera feed sucessfully acquired!
+[29Jul2020 123802] - Program fully initilized!
+[29Jul2020 123804] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123805] - Subject has returned to an upright position.
+[29Jul2020 123805] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123805] - Subject has returned to an upright position.
+[29Jul2020 123805] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123807] - Subject has returned to an upright position.
+[29Jul2020 123807] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123817] - Alert has been Sent. Awaiting help...
+[29Jul2020 123823] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[29Jul2020 123945] - Event Log Initialized!
+[29Jul2020 123947] - Camera feed sucessfully acquired!
+[29Jul2020 123947] - Program fully initilized!
+[29Jul2020 123948] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123948] - Subject has returned to an upright position.
+[29Jul2020 123948] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123948] - Subject has returned to an upright position.
+[29Jul2020 123948] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123949] - Subject has returned to an upright position.
+[29Jul2020 123949] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123949] - Subject has returned to an upright position.
+[29Jul2020 123955] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123955] - Subject has returned to an upright position.
+[29Jul2020 123955] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123955] - Subject has returned to an upright position.
+[29Jul2020 123955] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123955] - Subject has returned to an upright position.
+[29Jul2020 123955] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123955] - Subject has returned to an upright position.
+[29Jul2020 123955] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123955] - Subject has returned to an upright position.
+[29Jul2020 123955] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123956] - Subject has returned to an upright position.
+[29Jul2020 123956] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123956] - Subject has returned to an upright position.
+[29Jul2020 123957] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123957] - Subject has returned to an upright position.
+[29Jul2020 123957] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123958] - Subject has returned to an upright position.
+[29Jul2020 123958] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123958] - Subject has returned to an upright position.
+[29Jul2020 123958] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123958] - Subject has returned to an upright position.
+[29Jul2020 123958] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123958] - Subject has returned to an upright position.
+[29Jul2020 123958] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123958] - Subject has returned to an upright position.
+[29Jul2020 123958] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123958] - Subject has returned to an upright position.
+[29Jul2020 123958] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123958] - Subject has returned to an upright position.
+[29Jul2020 123958] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123959] - Subject has returned to an upright position.
+[29Jul2020 123959] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123959] - Subject has returned to an upright position.
+[29Jul2020 123959] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123959] - Subject has returned to an upright position.
+[29Jul2020 123959] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123959] - Subject has returned to an upright position.
+[29Jul2020 123959] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123959] - Subject has returned to an upright position.
+[29Jul2020 123959] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123959] - Subject has returned to an upright position.
+[29Jul2020 123959] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 123959] - Subject has returned to an upright position.
+[29Jul2020 123959] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124000] - Subject has returned to an upright position.
+[29Jul2020 124000] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124000] - Subject has returned to an upright position.
+[29Jul2020 124000] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124000] - Subject has returned to an upright position.
+[29Jul2020 124000] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124000] - Subject has returned to an upright position.
+[29Jul2020 124000] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124000] - Subject has returned to an upright position.
+[29Jul2020 124000] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124000] - Subject has returned to an upright position.
+[29Jul2020 124000] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124000] - Subject has returned to an upright position.
+[29Jul2020 124001] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124001] - Subject has returned to an upright position.
+[29Jul2020 124001] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124001] - Subject has returned to an upright position.
+[29Jul2020 124001] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124001] - Subject has returned to an upright position.
+[29Jul2020 124001] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124001] - Subject has returned to an upright position.
+[29Jul2020 124001] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124001] - Subject has returned to an upright position.
+[29Jul2020 124001] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124002] - Subject has returned to an upright position.
+[29Jul2020 124002] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124002] - Subject has returned to an upright position.
+[29Jul2020 124002] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124002] - Subject has returned to an upright position.
+[29Jul2020 124002] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124002] - Subject has returned to an upright position.
+[29Jul2020 124002] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124002] - Subject has returned to an upright position.
+[29Jul2020 124002] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124002] - Subject has returned to an upright position.
+[29Jul2020 124003] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124003] - Subject has returned to an upright position.
+[29Jul2020 124003] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124003] - Subject has returned to an upright position.
+[29Jul2020 124003] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124003] - Subject has returned to an upright position.
+[29Jul2020 124003] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124003] - Subject has returned to an upright position.
+[29Jul2020 124003] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124003] - Subject has returned to an upright position.
+[29Jul2020 124003] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124004] - Subject has returned to an upright position.
+[29Jul2020 124004] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124004] - Subject has returned to an upright position.
+[29Jul2020 124004] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124004] - Subject has returned to an upright position.
+[29Jul2020 124004] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124004] - Subject has returned to an upright position.
+[29Jul2020 124004] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124004] - Subject has returned to an upright position.
+[29Jul2020 124004] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124004] - Subject has returned to an upright position.
+[29Jul2020 124004] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124004] - Subject has returned to an upright position.
+[29Jul2020 124004] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124005] - Subject has returned to an upright position.
+[29Jul2020 124005] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124005] - Subject has returned to an upright position.
+[29Jul2020 124005] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124005] - Subject has returned to an upright position.
+[29Jul2020 124005] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124005] - Subject has returned to an upright position.
+[29Jul2020 124005] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124005] - Subject has returned to an upright position.
+[29Jul2020 124005] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124005] - Subject has returned to an upright position.
+[29Jul2020 124005] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124006] - Subject has returned to an upright position.
+[29Jul2020 124006] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124006] - Subject has returned to an upright position.
+[29Jul2020 124006] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124006] - Subject has returned to an upright position.
+[29Jul2020 124006] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124006] - Subject has returned to an upright position.
+[29Jul2020 124006] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124006] - Subject has returned to an upright position.
+[29Jul2020 124006] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124006] - Subject has returned to an upright position.
+[29Jul2020 124006] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124006] - Subject has returned to an upright position.
+[29Jul2020 124006] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124007] - Subject has returned to an upright position.
+[29Jul2020 124007] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124007] - Subject has returned to an upright position.
+[29Jul2020 124007] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124007] - Subject has returned to an upright position.
+[29Jul2020 124007] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124007] - Subject has returned to an upright position.
+[29Jul2020 124007] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124007] - Subject has returned to an upright position.
+[29Jul2020 124007] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124007] - Subject has returned to an upright position.
+[29Jul2020 124007] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124007] - Subject has returned to an upright position.
+[29Jul2020 124008] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124008] - Subject has returned to an upright position.
+[29Jul2020 124008] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124008] - Subject has returned to an upright position.
+[29Jul2020 124008] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124008] - Subject has returned to an upright position.
+[29Jul2020 124008] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124008] - Subject has returned to an upright position.
+[29Jul2020 124008] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124008] - Subject has returned to an upright position.
+[29Jul2020 124008] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124009] - Subject has returned to an upright position.
+[29Jul2020 124009] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124009] - Subject has returned to an upright position.
+[29Jul2020 124010] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124010] - Subject has returned to an upright position.
+[29Jul2020 124010] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124010] - Subject has returned to an upright position.
+[29Jul2020 124011] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124011] - Subject has returned to an upright position.
+[29Jul2020 124011] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124011] - Subject has returned to an upright position.
+[29Jul2020 124011] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124011] - Subject has returned to an upright position.
+[29Jul2020 124011] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124011] - Subject has returned to an upright position.
+[29Jul2020 124011] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124011] - Subject has returned to an upright position.
+[29Jul2020 124011] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124011] - Subject has returned to an upright position.
+[29Jul2020 124012] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124012] - Subject has returned to an upright position.
+[29Jul2020 124012] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124012] - Subject has returned to an upright position.
+[29Jul2020 124012] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124012] - Subject has returned to an upright position.
+[29Jul2020 124012] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124012] - Subject has returned to an upright position.
+[29Jul2020 124012] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124012] - Subject has returned to an upright position.
+[29Jul2020 124012] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124012] - Subject has returned to an upright position.
+[29Jul2020 124013] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124013] - Subject has returned to an upright position.
+[29Jul2020 124013] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124013] - Subject has returned to an upright position.
+[29Jul2020 124013] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124013] - Subject has returned to an upright position.
+[29Jul2020 124013] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124013] - Subject has returned to an upright position.
+[29Jul2020 124013] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124013] - Subject has returned to an upright position.
+[29Jul2020 124013] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124014] - Subject has returned to an upright position.
+[29Jul2020 124014] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124014] - Subject has returned to an upright position.
+[29Jul2020 124014] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124015] - Subject has returned to an upright position.
+[29Jul2020 124015] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124015] - Subject has returned to an upright position.
+[29Jul2020 124015] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124015] - Subject has returned to an upright position.
+[29Jul2020 124015] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124015] - Subject has returned to an upright position.
+[29Jul2020 124015] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124015] - Subject has returned to an upright position.
+[29Jul2020 124015] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124015] - Subject has returned to an upright position.
+[29Jul2020 124015] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124016] - Subject has returned to an upright position.
+[29Jul2020 124016] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124016] - Subject has returned to an upright position.
+[29Jul2020 124016] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124016] - Subject has returned to an upright position.
+[29Jul2020 124016] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124016] - Subject has returned to an upright position.
+[29Jul2020 124017] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124017] - Subject has returned to an upright position.
+[29Jul2020 124017] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124022] - Subject has returned to an upright position.
+[29Jul2020 124022] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124029] - Subject has returned to an upright position.
+[29Jul2020 124030] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124032] - Subject has returned to an upright position.
+[29Jul2020 124033] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124033] - Subject has returned to an upright position.
+[29Jul2020 124033] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124033] - Subject has returned to an upright position.
+[29Jul2020 124033] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124033] - Subject has returned to an upright position.
+[29Jul2020 124033] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124033] - Subject has returned to an upright position.
+[29Jul2020 124033] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124033] - Subject has returned to an upright position.
+[29Jul2020 124033] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124036] - Subject has returned to an upright position.
+[29Jul2020 124036] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124037] - Subject has returned to an upright position.
+[29Jul2020 124037] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124037] - Subject has returned to an upright position.
+[29Jul2020 124037] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124041] - Subject has returned to an upright position.
+[29Jul2020 124041] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124041] - Subject has returned to an upright position.
+[29Jul2020 124041] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124041] - Subject has returned to an upright position.
+[29Jul2020 124041] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124041] - Subject has returned to an upright position.
+[29Jul2020 124041] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124044] - Subject has returned to an upright position.
+[29Jul2020 124044] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124045] - Subject has returned to an upright position.
+[29Jul2020 124046] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124047] - Subject has returned to an upright position.
+[29Jul2020 124047] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124047] - Subject has returned to an upright position.
+[29Jul2020 124047] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[29Jul2020 124057] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[31Jul2020 173948] - Event Log Initialized!
+[31Jul2020 173950] - Camera feed sucessfully acquired!
+[31Jul2020 173950] - Program fully initilized!
+[31Jul2020 173950] - Subject has entered the camera's view.
+[31Jul2020 173950] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[31Jul2020 174000] - Alert has been Sent. Awaiting help...
+[31Jul2020 174004] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[03Aug2020 160732] - Event Log Initialized!
+[03Aug2020 160732] - Camera feed sucessfully acquired!
+[03Aug2020 160732] - Program fully initilized!
+[03Aug2020 160748] - Subject has entered the camera's view.
+[03Aug2020 160809] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[03Aug2020 160821] - Event Log Initialized!
+[03Aug2020 160821] - Camera feed sucessfully acquired!
+[03Aug2020 160821] - Program fully initilized!
+[03Aug2020 160827] - Subject has entered the camera's view.
+[03Aug2020 160833] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[03Aug2020 160840] - Subject has returned to an upright position.
+[03Aug2020 160848] - Subject has left the camera's view.
+[03Aug2020 160850] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[03Aug2020 160859] - Event Log Initialized!
+[03Aug2020 160902] - Camera feed sucessfully acquired!
+[03Aug2020 160902] - Program fully initilized!
+[03Aug2020 160902] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[03Aug2020 160903] - Subject has returned to an upright position.
+[03Aug2020 160903] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[03Aug2020 160908] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[06Aug2020 153709] - Event Log Initialized!
+[06Aug2020 153709] - Camera feed sucessfully acquired!
+[06Aug2020 153709] - Program fully initilized!
+[06Aug2020 153715] - Subject has entered the camera's view.
+[06Aug2020 153722] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[06Aug2020 153729] - Subject has returned to an upright position.
+[06Aug2020 153738] - Subject has left the camera's view.
+[06Aug2020 153740] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[04Jan2021 170051] - Event Log Initialized!
+[04Jan2021 170051] - Camera feed sucessfully acquired!
+[04Jan2021 170051] - Program fully initilized!
+[04Jan2021 170055] - Subject has entered the camera's view.
+[04Jan2021 170100] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170105] - Subject has returned to an upright position.
+[04Jan2021 170111] - Subject has left the camera's view.
+[04Jan2021 170113] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[04Jan2021 170610] - Event Log Initialized!
+[04Jan2021 170610] - Camera feed sucessfully acquired!
+[04Jan2021 170610] - Program fully initilized!
+[04Jan2021 170615] - Subject has entered the camera's view.
+[04Jan2021 170620] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170625] - Subject has returned to an upright position.
+[04Jan2021 170631] - Subject has left the camera's view.
+[04Jan2021 170633] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[04Jan2021 170650] - Event Log Initialized!
+[04Jan2021 170651] - Camera feed sucessfully acquired!
+[04Jan2021 170651] - Program fully initilized!
+[04Jan2021 170652] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170653] - Subject has returned to an upright position.
+[04Jan2021 170656] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170657] - Subject has returned to an upright position.
+[04Jan2021 170657] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170657] - Subject has returned to an upright position.
+[04Jan2021 170657] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170659] - Subject has returned to an upright position.
+[04Jan2021 170659] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170700] - Subject has returned to an upright position.
+[04Jan2021 170700] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170700] - Subject has returned to an upright position.
+[04Jan2021 170701] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170702] - Subject has returned to an upright position.
+[04Jan2021 170702] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170704] - Subject has returned to an upright position.
+[04Jan2021 170704] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170704] - Subject has returned to an upright position.
+[04Jan2021 170704] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170707] - Subject has returned to an upright position.
+[04Jan2021 170707] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170708] - Subject has returned to an upright position.
+[04Jan2021 170708] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170708] - Subject has returned to an upright position.
+[04Jan2021 170708] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170708] - Subject has returned to an upright position.
+[04Jan2021 170708] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170709] - Subject has returned to an upright position.
+[04Jan2021 170709] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170709] - Subject has returned to an upright position.
+[04Jan2021 170709] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170709] - Subject has returned to an upright position.
+[04Jan2021 170709] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170710] - Subject has returned to an upright position.
+[04Jan2021 170710] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170710] - Subject has returned to an upright position.
+[04Jan2021 170710] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170712] - Subject has returned to an upright position.
+[04Jan2021 170712] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170712] - Subject has returned to an upright position.
+[04Jan2021 170712] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170712] - Subject has returned to an upright position.
+[04Jan2021 170712] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170712] - Subject has returned to an upright position.
+[04Jan2021 170712] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170712] - Subject has returned to an upright position.
+[04Jan2021 170712] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170712] - Subject has returned to an upright position.
+[04Jan2021 170712] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170713] - Subject has returned to an upright position.
+[04Jan2021 170713] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170713] - Subject has returned to an upright position.
+[04Jan2021 170713] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170713] - Subject has returned to an upright position.
+[04Jan2021 170713] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170713] - Subject has returned to an upright position.
+[04Jan2021 170713] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170714] - Subject has returned to an upright position.
+[04Jan2021 170714] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170716] - Subject has returned to an upright position.
+[04Jan2021 170717] - Subject has left the camera's view.
+[04Jan2021 170717] - Subject has entered the camera's view.
+[04Jan2021 170717] - Subject has left the camera's view.
+[04Jan2021 170717] - Subject has entered the camera's view.
+[04Jan2021 170717] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170718] - Subject has returned to an upright position.
+[04Jan2021 170718] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170718] - Subject has returned to an upright position.
+[04Jan2021 170718] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170722] - Subject has returned to an upright position.
+[04Jan2021 170722] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170723] - Subject has returned to an upright position.
+[04Jan2021 170723] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170727] - Subject has returned to an upright position.
+[04Jan2021 170728] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170729] - Subject has left the camera's view.
+[04Jan2021 170729] - Subject has entered the camera's view.
+[04Jan2021 170731] - Subject has returned to an upright position.
+[04Jan2021 170737] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170737] - Subject has returned to an upright position.
+[04Jan2021 170737] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170737] - Subject has returned to an upright position.
+[04Jan2021 170737] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170738] - Subject has returned to an upright position.
+[04Jan2021 170738] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170738] - Subject has returned to an upright position.
+[04Jan2021 170738] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170738] - Subject has returned to an upright position.
+[04Jan2021 170738] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170739] - Subject has returned to an upright position.
+[04Jan2021 170739] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170739] - Subject has returned to an upright position.
+[04Jan2021 170740] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170740] - Subject has returned to an upright position.
+[04Jan2021 170809] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 170810] - Subject has returned to an upright position.
+[04Jan2021 170810] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[04Jan2021 171206] - Event Log Initialized!
+[04Jan2021 171206] - Camera feed sucessfully acquired!
+[04Jan2021 171206] - Program fully initilized!
+[04Jan2021 171210] - Subject has entered the camera's view.
+[04Jan2021 171215] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 171221] - Subject has returned to an upright position.
+[04Jan2021 171227] - Subject has left the camera's view.
+[04Jan2021 171229] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[04Jan2021 171319] - Event Log Initialized!
+[04Jan2021 171319] - Camera feed sucessfully acquired!
+[04Jan2021 171319] - Program fully initilized!
+[04Jan2021 171331] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[04Jan2021 171406] - Event Log Initialized!
+[04Jan2021 171406] - Camera feed sucessfully acquired!
+[04Jan2021 171406] - Program fully initilized!
+[04Jan2021 171420] - Subject has entered the camera's view.
+[04Jan2021 171423] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[04Jan2021 171528] - Event Log Initialized!
+[04Jan2021 171528] - Camera feed sucessfully acquired!
+[04Jan2021 171528] - Program fully initilized!
+[04Jan2021 171528] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[04Jan2021 171545] - Event Log Initialized!
+[04Jan2021 171545] - Camera feed sucessfully acquired!
+[04Jan2021 171545] - Program fully initilized!
+[04Jan2021 171545] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[04Jan2021 185931] - Event Log Initialized!
+[04Jan2021 185933] - Camera feed sucessfully acquired!
+[04Jan2021 185933] - Program fully initilized!
+[04Jan2021 185934] - Subject has entered the camera's view.
+[04Jan2021 185934] - Suspected fall has occured. An alert will be sent if subject does not stand back up within 10 seconds.
+[04Jan2021 185944] - Alert has been Sent. Awaiting help...
+[04Jan2021 185947] - Terminating Program...
+
+
+
+********************New Initialization********************
+
+[04Jan2021 191244] - Event Log Initialized!
+[04Jan2021 191246] - Camera feed sucessfully acquired!
+[04Jan2021 191246] - Program fully initilized!
+[04Jan2021 191247] - Subject has entered the camera's view.
+[04Jan2021 191253] - Terminating Program...
+
+
+
